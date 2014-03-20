@@ -1,4 +1,4 @@
 PPLoc
 =====
 
-Localization for Paper, please.
+Localization for Papers, please.
