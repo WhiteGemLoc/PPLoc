@@ -544,7 +544,7 @@
 "text:confirm_ok","OKAY","确定"
 "text:confirm_cancel","CANCEL","取消"
 "text:menu_mainmenu","MAIN MENU","主菜单"
-"text:menu_resume","RESUME","继续"
+"text:menu_resume","RESUME","恢复"
 "text:menu_quit","QUIT","退出"
 "text:menu_done","DONE","完成"
 "text:menu_story","STORY","故事"
@@ -574,7 +574,7 @@ $citations citations earned
 $stamps stamps applied
 Ending $endnum of $endtotal","已游戏 $time
 检查了 $processed 位旅行者
-通过了 $approved 位
+批准了 $approved 位
 拒绝了 $denied 位
 拘留了 $detained 位
 收到了 $citations 张传票
@@ -584,79 +584,75 @@ Ending $endnum of $endtotal","已游戏 $time
 
 If this problem persists, re-install the Steam client.","STEAM 连接失败
 
-如果持续出现这个错误，请重装Steam客户端"
+如果持续出现这个错误，请重新安装Steam客户端。"
 "text:steam_restartfailed","STEAM RESTART FAILED
 
 If this problem persists, re-install the Steam client.","STEAM 重启失败
 
-If this problem persists, re-install the Steam client."
+如果持续出现这个错误，请重新安装Steam客户端。"
 "text:steam_noconnect","STEAM CONNECTION FAILED
 
-The game will attempt to restart through the Steam client.","STEAM CONNECTION FAILED
+The game will attempt to restart through the Steam client.","STEAM 连接失败
 
-The game will attempt to restart through the Steam client."
-"text:steam_restart","RESTART","RESTART"
-"text:load_title","Select day to continue or start a new game","Select day to continue or start a new game"
+游戏会尝试通过Steam客户端重新启动。"
+"text:steam_restart","RESTART","重启游戏"
+"text:load_title","Select day to continue or start a new game","选择天数来继续，或开始新游戏"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
-There is no undo.","Delete this day $0 save?
+There is no undo.","删除这个$0天存档？
 
-There is no undo."
+操作无法撤销"
 "text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
 
-There is no undo.","Delete this save branch from day $0 to day $1?
+There is no undo.","删除这个从$0天到$1天的存档分支？
 
-There is no undo."
+操作无法撤销"
 "text:load_delete","DELETE","DELETE"
 "text:load_confirm_full","Save tracks full.
 
-Continue from a right-most save or delete a save branch to free up a track.","Save tracks full.
+Continue from a right-most save or delete a save branch to free up a track.","存档记录已满。
 
-Continue from a right-most save or delete a save branch to free up a track."
+从最右侧存档继续或删除一个存档分支来释放存档空间。"
 "text:load_summary","Day $day
 ""$news""
 
 $savings credits, $family family members,
-$tokens tokens, apartment $apt","Day $day
+$tokens tokens, apartment $apt","第 $day 天
 ""$news""
 
-$savings credits, $family family members,
-$tokens tokens, apartment $apt"
-"text:load_continue","CONTINUE","CONTINUE"
-"text:emotion_happy","HAPPY","HAPPY"
-"text:emotion_ok","OK","OK"
-"text:emotion_sad","SAD","SAD"
-"text:emotion_cold","COLD","COLD"
-"text:emotion_sick","SICK","SICK"
-"text:emotion_verysick","VERY SICK","VERY SICK"
-"text:emotion_dead","DEAD","DEAD"
-"text:emotion_hungry","HUNGRY","HUNGRY"
-"text:load_latest","LATEST","LATEST"
-"text:entry_approved","ENTRY GRANTED","ENTRY GRANTED"
-"text:entry_denied","ENTRY DENIED","ENTRY DENIED"
-"text:stamp_approved","APPROVED","APPROVED"
-"text:stamp_denied","DENIED","DENIED"
-"text:stamp_reason","REASON","REASON"
-"text:booth_dragdocs","DRAG DOCUMENTS HERE","DRAG DOCUMENTS HERE"
-"text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
+$savings credits, $family 位家庭成员,
+$tokens tokens, 公寓 $apt"
+"text:load_continue","CONTINUE","继续"
+"text:emotion_happy","HAPPY","开心"
+"text:emotion_ok","OK","普通"
+"text:emotion_sad","SAD","悲伤"
+"text:emotion_cold","COLD","寒冷"
+"text:emotion_sick","SICK","生病"
+"text:emotion_verysick","VERY SICK","病危"
+"text:emotion_dead","DEAD","去世"
+"text:emotion_hungry","HUNGRY","饥饿"
+"text:load_latest","LATEST","最新"
+"text:entry_approved","ENTRY GRANTED","授权入境"
+"text:entry_denied","ENTRY DENIED","拒绝入境"
+"text:stamp_approved","APPROVED","批准"
+"text:stamp_denied","DENIED","拒绝"
+"text:stamp_reason","REASON","理由"
+"text:booth_dragdocs","DRAG DOCUMENTS HERE","将文件拉到这里"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","高亮矛盾"
 "text:booth_discrepancy","DISCREPANCY
-DETECTED","DISCREPANCY
-DETECTED"
-"text:booth_interrogate","INTERROGATE","INTERROGATE"
+DETECTED","检测到矛盾"
+"text:booth_interrogate","INTERROGATE","审问"
 "text:booth_matching","MATCHING
-DATA","MATCHING
-DATA"
+DATA","匹配资料"
 "text:booth_nocorrelation","NO
-CORRELATION","NO
-CORRELATION"
+CORRELATION","没有关联"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
-"text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
-"text:env_lettermale","M","M"
-"text:env_letterfemale","F","F"
-"text:env_noalias","No known alias","No known alias"
-"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
+CLEARED","矛盾已处理"
+"text:env_clearforentry","Applicant clear for entry","申请人可以入境"
+"text:env_lettermale","M","男"
+"text:env_letterfemale","F","女"
+"text:env_noalias","No known alias","无已知别名"
+"text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","力利,雷蕾,兹滋,珀泊,亚娅,和合,斯思"
 "text:endless_complete","$style
 $course
 
@@ -665,23 +661,23 @@ $score Points","$style
 $course
 
 $time
-$score Points"
-"text:endless_ranked","Ranked #$0","Ranked #$0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
+$score 分数"
+"text:endless_ranked","Ranked #$0","排名 第 $0 位"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","在不丢失工作的情况下完成故事模式来解锁无尽模式"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
-"text:date_verbose","$month $day, $year","$month $day, $year"
-"text:month_1","January","January"
-"text:month_2","February","February"
-"text:month_3","March","March"
-"text:month_4","April","April"
-"text:month_5","May","May"
-"text:month_6","June","June"
-"text:month_7","July","July"
-"text:month_8","August","August"
-"text:month_9","September","September"
-"text:month_10","October","October"
-"text:month_11","November","November"
-"text:month_12","December","December"
+"text:date_verbose","$month $day, $year","$year年 $month $day"
+"text:month_1","January","一月"
+"text:month_2","February","二月"
+"text:month_3","March","三月"
+"text:month_4","April","四月"
+"text:month_5","May","五月"
+"text:month_6","June","六月"
+"text:month_7","July","七月"
+"text:month_8","August","八月"
+"text:month_9","September","九月"
+"text:month_10","October","十月"
+"text:month_11","November","十一月"
+"text:month_12","December","十二月"
 "text:day_1","1st","1日"
 "text:day_2","2nd","2日"
 "text:day_3","3rd","3日"
@@ -738,15 +734,15 @@ NOTICE:
 
 $content
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","阿斯托兹卡
+边审部
+官方公告
 
-NOTICE:
+注意：
 
 $content
 
-Glory to Arstotzka."
+阿斯托兹卡万岁。"
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -755,15 +751,15 @@ $style
 
 $course
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","阿斯托兹卡
+边审部
+官方公告
 
 $style
 
 $course
 
-Glory to Arstotzka."
+阿斯托兹卡万岁。"
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
