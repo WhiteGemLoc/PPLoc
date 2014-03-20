@@ -370,7 +370,7 @@
 "news:BLACKMARKET_EXPLODES","Government Blames Lax Immigration Controls","Government Blames Lax Immigration Controls"
 "news:BLACKMARKET_EXPLODES","Checkpoint Expansion Postponed","Checkpoint Expansion Postponed"
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","工作少了，变得越来越少"
-"news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","Immigrants Taking Jobs From Locals"
+"news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","移民夺走了原居民的工作"
 "news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","Kolechian Leader Files Complaint"
 "news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","Claims Unprovoked Border Searches Violate Rights"
 "news:AFTER_SUICIDE_BOMBER","Another Attack At Grestin Checkpoint!","Another Attack At Grestin Checkpoint!"
@@ -607,7 +607,7 @@ There is no undo.","删除这个$0天存档？
 There is no undo.","删除这个从$0天到$1天的存档分支？
 
 操作无法撤销"
-"text:load_delete","DELETE","DELETE"
+"text:load_delete","DELETE","删除"
 "text:load_confirm_full","Save tracks full.
 
 Continue from a right-most save or delete a save branch to free up a track.","存档记录已满。
