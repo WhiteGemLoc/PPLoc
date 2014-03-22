@@ -725,7 +725,7 @@ Glory to Arstotzka.","阿斯托兹卡
 
 $content
 
-阿斯托兹卡万岁。"
+荣耀归于阿斯托兹卡。"
 "text:bulletin_notice","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -742,7 +742,7 @@ Glory to Arstotzka.","阿斯托兹卡
 
 $content
 
-阿斯托兹卡万岁。"
+荣耀归于阿斯托兹卡。"
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -759,7 +759,7 @@ $style
 
 $course
 
-阿斯托兹卡万岁。"
+荣耀归于阿斯托兹卡。"
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
@@ -1154,7 +1154,7 @@ DO NOT LEAVE YOUR DESIGNATED REGION.
 
 Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","$paper: Invalid $fact","$paper: Invalid $fact"
-"facts","Missing $paper","Missing $paper"
+"facts","Missing $paper","缺失 $paper"
 "facts","$0 DISTRICT","$0 DISTRICT"
 "facts","Presence","Presence"
 "facts","Sufficience","Sufficience"
