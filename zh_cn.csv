@@ -725,7 +725,7 @@ Glory to Arstotzka.","阿斯托兹卡
 
 $content
 
-荣耀归于阿斯托兹卡。"
+阿斯托兹卡万岁。"
 "text:bulletin_notice","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -742,7 +742,7 @@ Glory to Arstotzka.","阿斯托兹卡
 
 $content
 
-荣耀归于阿斯托兹卡。"
+阿斯托兹卡万岁。"
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -759,7 +759,7 @@ $style
 
 $course
 
-荣耀归于阿斯托兹卡。"
+阿斯托兹卡万岁。"
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
@@ -1154,7 +1154,7 @@ DO NOT LEAVE YOUR DESIGNATED REGION.
 
 Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","$paper: Invalid $fact","$paper: Invalid $fact"
-"facts","Missing $paper","缺失 $paper"
+"facts","Missing $paper","Missing $paper"
 "facts","$0 DISTRICT","$0 DISTRICT"
 "facts","Presence","Presence"
 "facts","Sufficience","Sufficience"
@@ -2056,40 +2056,40 @@ HOLD YOUR FIRE
 "traveler:HUSBAND_WIFE1","Why did you turn my husband away?","你为什么让我丈夫回去了？"
 "traveler:HUSBAND_WIFE1","I will not leave him to die.","我不会丢下他的。"
 "traveler:HUSBAND_WIFE1","You have doomed us both.","你毁了我们俩。"
-"traveler:HIRING_ENGINEERS_START","You see many people, yes?","You see many people, yes?"
-"traveler:HIRING_ENGINEERS_START","I am looking for engineers.","I am looking for engineers."
-"traveler:HIRING_ENGINEERS_START","Do me a favor.","Do me a favor."
-"traveler:HIRING_ENGINEERS_START","Give my card to any engineers you meet.","Give my card to any engineers you meet."
-"traveler:HIRING_ENGINEERS_START","I come back in few days.","I come back in few days."
-"traveler:HIRING_ENGINEERS_START","Pay you 5 credits for each engineer that calls me.","Pay you 5 credits for each engineer that calls me."
-"traveler:HIRING_ENGINEERS_START","You make a mistake but I let you fix it.","You make a mistake but I let you fix it."
-"traveler:HIRING_ENGINEERS","What is this?","What is this?"
-"traveler:HIRING_ENGINEERS","Oh. Huh. ; Huh. ; They are hiring?","Oh. Huh. ; Huh. ; They are hiring?"
-"traveler:HIRING_ENGINEERS","I have already.","I have already."
-"traveler:HIRING_ENGINEERS","Stop giving to me.","Stop giving to me."
-"traveler:HIRING_ENGINEERS","Forget it, take them both. I don't want.","Forget it, take them both. I don't want."
-"traveler:HIRING_ENGINEERS_END","Is good card, yes? ; Thanks ; These were not cheap you know. ;","Is good card, yes? ; Thanks ; These were not cheap you know. ;"
-"traveler:HIRING_ENGINEERS_END","I am back.","I am back."
-"traveler:HIRING_ENGINEERS_END","How many engineers did you meet?","How many engineers did you meet?"
-"traveler:HIRING_ENGINEERS_END","I got no calls.","I got no calls."
-"traveler:HIRING_ENGINEERS_END","You gave my cards to no one.","You gave my cards to no one."
-"traveler:HIRING_ENGINEERS_END","Thank you for nothing.","Thank you for nothing."
-"traveler:HIRING_ENGINEERS_END","I get only one call.","I get only one call."
-"traveler:HIRING_ENGINEERS_END","I'm lucky that he is good lead.","I'm lucky that he is good lead."
-"traveler:HIRING_ENGINEERS_END","Here is what I promised.","Here is what I promised."
-"traveler:HIRING_ENGINEERS_END","I got two calls.","I got two calls."
-"traveler:HIRING_ENGINEERS_END","One guy, he was good.","One guy, he was good."
-"traveler:HIRING_ENGINEERS_END","Other one not so much.","Other one not so much."
-"traveler:HIRING_ENGINEERS_END","Thanks anyways.","Thanks anyways."
-"traveler:HIRING_ENGINEERS_END","I got three calls.","I got three calls."
-"traveler:HIRING_ENGINEERS_END","Two guys were good.","Two guys were good."
-"traveler:HIRING_ENGINEERS_END","Last one was a fool. Didn't know basics.","Last one was a fool. Didn't know basics."
-"traveler:HIRING_ENGINEERS_END","But is ok. I appreciate.","But is ok. I appreciate."
-"traveler:HIRING_ENGINEERS_END","I got four calls.","I got four calls."
-"traveler:HIRING_ENGINEERS_END","Three were civil engineers. Useless.","Three were civil engineers. Useless."
-"traveler:HIRING_ENGINEERS_END","I need mechanicals. I told you.","I need mechanicals. I told you."
-"traveler:HIRING_ENGINEERS_END","Anyway, is ok. Last guy very sharp.","Anyway, is ok. Last guy very sharp."
-"traveler:HIRING_ENGINEERS_END","Thanks for the help.","Thanks for the help."
+"traveler:HIRING_ENGINEERS_START","You see many people, yes?","你看到很多人，对吧？"
+"traveler:HIRING_ENGINEERS_START","I am looking for engineers.","我正在找工程师。"
+"traveler:HIRING_ENGINEERS_START","Do me a favor.","帮我个忙。"
+"traveler:HIRING_ENGINEERS_START","Give my card to any engineers you meet.","把我的名片给每个你遇上的工程师。"
+"traveler:HIRING_ENGINEERS_START","I come back in few days.","几天内我就会回来。"
+"traveler:HIRING_ENGINEERS_START","Pay you 5 credits for each engineer that calls me.","每有一个工程师联系我我就会付给你5信用点。"
+"traveler:HIRING_ENGINEERS_START","You make a mistake but I let you fix it.","你犯了错，但我给你机会弥补。"
+"traveler:HIRING_ENGINEERS","What is this?","这是什么？"
+"traveler:HIRING_ENGINEERS","Oh. Huh. ; Huh. ; They are hiring?","噢。哈；哈。他们正在招人？"
+"traveler:HIRING_ENGINEERS","I have already.","我已经有工作了。"
+"traveler:HIRING_ENGINEERS","Stop giving to me.","别给我了。"
+"traveler:HIRING_ENGINEERS","Forget it, take them both. I don't want.","就这样吧，把这俩玩意拿走，我不要。"
+"traveler:HIRING_ENGINEERS_END","Is good card, yes? ; Thanks ; These were not cheap you know. ;","这名片不错吧？；谢谢；要知道这些可不便宜。；"
+"traveler:HIRING_ENGINEERS_END","I am back.","我回来了。"
+"traveler:HIRING_ENGINEERS_END","How many engineers did you meet?","你遇上了多少工程师？"
+"traveler:HIRING_ENGINEERS_END","I got no calls.","没人联系我。"
+"traveler:HIRING_ENGINEERS_END","You gave my cards to no one.","你没给出我的名片。"
+"traveler:HIRING_ENGINEERS_END","Thank you for nothing.","没什么好谢的。"
+"traveler:HIRING_ENGINEERS_END","I get only one call.","我只接到了一通电话。"
+"traveler:HIRING_ENGINEERS_END","I'm lucky that he is good lead.","我很幸运。他是个好领导。"
+"traveler:HIRING_ENGINEERS_END","Here is what I promised.","这是我所承诺的。"
+"traveler:HIRING_ENGINEERS_END","I got two calls.","我接到了两通电话。"
+"traveler:HIRING_ENGINEERS_END","One guy, he was good.","一个挺好。"
+"traveler:HIRING_ENGINEERS_END","Other one not so much.","另一个差点。"
+"traveler:HIRING_ENGINEERS_END","Thanks anyways.","无论如何谢谢了。"
+"traveler:HIRING_ENGINEERS_END","I got three calls.","我接到了三通电话。"
+"traveler:HIRING_ENGINEERS_END","Two guys were good.","有两个不错的家伙。"
+"traveler:HIRING_ENGINEERS_END","Last one was a fool. Didn't know basics.","最后一个是个连基础都不懂的蠢货。"
+"traveler:HIRING_ENGINEERS_END","But is ok. I appreciate.","但这样也可以了。我很感激。"
+"traveler:HIRING_ENGINEERS_END","I got four calls.","我接到了四通电话。"
+"traveler:HIRING_ENGINEERS_END","Three were civil engineers. Useless.","三个是道路工程师，没用。"
+"traveler:HIRING_ENGINEERS_END","I need mechanicals. I told you.","我需要的是机械方面的工程师，我告诉过你的。"
+"traveler:HIRING_ENGINEERS_END","Anyway, is ok. Last guy very sharp.","无论如何，还可以了。最后一个家伙还是个刺头。"
+"traveler:HIRING_ENGINEERS_END","Thanks for the help.","谢谢你的帮助。"
 "traveler:FRIENDLY_GUARD0","Hello.","Hello."
 "traveler:FRIENDLY_GUARD0","I heard that you are from Nirsk?","I heard that you are from Nirsk?"
 "traveler:FRIENDLY_GUARD0","I grew up there but I have not been back in many years.","I grew up there but I have not been back in many years."
