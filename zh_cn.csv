@@ -45,7 +45,7 @@
 "BulletinInnerBoothTut","Inspector's Booth","入境检查室"
 "BulletinInnerBoothTut","Shutter","卷闸门开关"
 "BulletinInnerBoothTut","Counter","柜台"
-"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","规则手册<br>音频转录<br>公告存放处<br>时间 &amp; 日期"
+"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","规定手册<br>音频转录<br>公告存放处<br>时间 &amp; 日期"
 "BulletinInnerGunTut","Weapons Protocol","武器协议"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","当警报响起时"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","将钥匙插入锁孔来解锁武器。"
@@ -216,7 +216,7 @@
 "RulesInnerBooth","INSPECTOR'S BOOTH","入境检查室"
 "RulesInnerBooth","Shutter","卷闸门开关"
 "RulesInnerBooth","Counter","柜台"
-"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","规则手册<br>对话记录仪<br>公告存放处<br>时间和日期"
+"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","规定手册<br>对话记录仪<br>公告存放处<br>时间和日期"
 "RulesInnerBooth","UPGRADES","升级"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","未安装升级"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","官方认证"
@@ -787,7 +787,7 @@ Continued...[PAGESNOTE]","即日起，持有有效护照的外国人将被允许
 
 仔细检查所有护照信息中存在的矛盾。拒绝所有信息不符的入境者。
 
-下一页[PAGESNOTE]"
+下一页……[PAGESNOTE]"
 "bulletin:2B","__________________________
 INSPECT MODE
 
@@ -797,9 +797,9 @@ __________________________
 RULES &amp; REGULATIONS
 
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
-INSPECT MODE
+审查模式
 
-Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+使用桌子上的红按钮进入审查模式。审查时，高亮两段矛盾信息来获取进一步选项。
 
 __________________________
 RULES &amp; REGULATIONS
