@@ -1596,7 +1596,7 @@ HELP US FREE ARSTOTZKA FROM ITS SHACKLES
 
 战争让政府陷入贪婪和偏执 — 这你已亲眼见到了。
 
-帮助我们使阿斯托兹卡从链铐中解放出来。
+帮助我们将阿斯托兹卡从链铐中解放出来。
 
 * 艾吉克之星结社"
 "note:EZIC_HANDLER_POST0","FIRST AGENT WAS DENIED
@@ -1616,9 +1616,9 @@ NEXT AGENT COMES TODAY
 
 WILL SOLVE PROBLEM
 
-DENY AT OWN RISK","大型礼物弄错了
+DENY AT OWN RISK","弄错了大礼
 
-信息部正在调查你同艾吉克的联系
+信息部正调查你同艾吉克之联系
 
 下一名特工今日抵达
 
@@ -1705,7 +1705,7 @@ IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL
 
 万勿冒险 - 今日即杀死他 - 我方会提供机会
 
-事若成，恐被捕 - 务必为阿斯托兹卡献身 - 家人将平安"
+事成，恐被捕 - 务必为阿斯托兹卡献身 - 家人将平安"
 "note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
@@ -1714,7 +1714,7 @@ IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL
 
 万勿冒险 - 今日即杀死他 - 我方会提供机会
 
-事若成，恐被捕 - 务必为阿斯托兹卡献身 - 家人将平安"
+事成，恐被捕 - 务必为阿斯托兹卡献身 - 家人将平安"
 "note:EZIC_HANDLER_POSTSNIPE","WE HAVE MISSED OUR CHANCE
 
 MAN IN RED SURVIVES
@@ -1762,45 +1762,45 @@ HOLD YOUR FIRE
 "traveler:DEFAULT","@It is being confiscated.","@它被没收了。"
 "traveler:DEFAULT","How will I travel? ; What should I do? ; Why? ; You cannot do this.","那我怎么旅行？；我该怎么办？；为什么？；你不能这样做。"
 "traveler:DEFAULT","@Contact number on slip.","@拨打纸片上的号码。"
-"traveler:EZIC_INTRO","The Order awaits.","The Order awaits."
+"traveler:EZIC_INTRO","The Order awaits.","结社守候于此。"
 "traveler:EZIC_CORMAN","Very good.","非常好。"
 "traveler:EZIC_CORMAN","Read quickly.","快点读。"
 "traveler:EZIC_CORMAN","Do not lose this.","别把这个弄丢了。"
 "traveler:EZIC_CORMAN","You have something of mine.","你那有我的东西。"
 "traveler:EZIC_CORMAN","My name is Corman Drex.","我的名字是卡门·德莱克斯。"
 "traveler:EZIC_CORMAN","Read the note then return it to me.","读这条笔记然后还给我。"
-"traveler:EZIC_HANDLER_PRE0","Our agents are ready.","Our agents are ready."
-"traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","Starting tomorrow."
-"traveler:EZIC_HANDLER_PRE0","Let them pass.","Let them pass."
-"traveler:EZIC_AGENT0","The Order rises.","The Order rises."
-"traveler:EZIC_AGENT0","The Order knows.","The Order knows."
-"traveler:EZIC_AGENT1","For Arstotzka and the Order.","For Arstotzka and the Order."
-"traveler:EZIC_HANDLER_POST1","Give me the coded documents.","给我加密了的文件。"
-"traveler:EZIC_HANDLER_POST1","Both.","两个都给我。"
+"traveler:EZIC_HANDLER_PRE0","Our agents are ready.","我们的特工已经就位。"
+"traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","明天开始行动。"
+"traveler:EZIC_HANDLER_PRE0","Let them pass.","让他们通过。"
+"traveler:EZIC_AGENT0","The Order rises.","结社正崛起。"
+"traveler:EZIC_AGENT0","The Order knows.","结社知道情况。"
+"traveler:EZIC_AGENT1","For Arstotzka and the Order.","为了阿斯托兹卡，为了结社！"
+"traveler:EZIC_HANDLER_POST1","Give me the coded documents.","把加密文件给我。"
+"traveler:EZIC_HANDLER_POST1","Both.","都给我。"
 "traveler:EZIC_HANDLER_EXT","Today.","就在今天。"
 "traveler:EZIC_AGENT_EXT","For Arstotzka and the Order.","对阿斯托兹卡以及其当局来说。"
 "traveler:EZIC_AGENT_EXT","The others do not agree, but I believe the man in red is not a threat.","或许别人不同意，但我相信那个红衣男子并非威胁。"
 "traveler:EZIC_AGENT_EXT","@What?","@什么？"
 "traveler:EZIC_AGENT_EXT","Nevermind.","别在意。"
-"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","射击杀人。"
-"traveler:EZIC_DIPLO","I require my passport.","I require my passport."
-"traveler:EZIC_DIPLO","@It has been confiscated.","@It has been confiscated."
-"traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","I am Kolechian diplomat here on government request."
-"traveler:EZIC_DIPLO","Return passport at once.","Return passport at once."
-"traveler:EZIC_DIPLO","@Call number on slip to recover.","@Call number on slip to recover."
-"traveler:EZIC_DIPLO","Barbarian.","Barbarian."
-"traveler:EZIC_DIPLO","You cannot do this.","You cannot do this."
-"traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","I saw him enter."
-"traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","Give his passport to me."
-"traveler:EZIC_DIPLO_FOLLOW","Ah good.","Ah good."
-"traveler:EZIC_DIPLO_FOLLOW","I look much the same as him.","I look much the same as him."
-"traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","Just need to shave my mustache."
-"traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","But we all must make sacrifices."
-"traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","Appove the visa."
-"traveler:EZIC_DIPLO_FOLLOW","For Arstotzka and the Order.","For Arstotzka and the Order."
-"traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","This is not what was agreed on."
-"traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","I am sent to collect diplomat's passport."
-"traveler:EZIC_DIPLO_FOLLOW","@I do not have it.","@I do not have it."
+"traveler:EZIC_HANDLER_SNIPE","Shoot to kill.","开枪杀了他。"
+"traveler:EZIC_DIPLO","I require my passport.","我需要我的护照。"
+"traveler:EZIC_DIPLO","@It has been confiscated.","@它已被没收了。"
+"traveler:EZIC_DIPLO","I am Kolechian diplomat here on government request.","我是应政府之邀前来的克勒地亚大使。"
+"traveler:EZIC_DIPLO","Return passport at once.","马上把护照还给我。"
+"traveler:EZIC_DIPLO","@Call number on slip to recover.","@拨打便条上的号码来重新申请个。"
+"traveler:EZIC_DIPLO","Barbarian.","野蛮的家伙。"
+"traveler:EZIC_DIPLO","You cannot do this.","你不能这样做。"
+"traveler:EZIC_DIPLO_FOLLOW","I saw him enter.","我看见他进去了。"
+"traveler:EZIC_DIPLO_FOLLOW","Give his passport to me.","把他的护照给我。"
+"traveler:EZIC_DIPLO_FOLLOW","Ah good.","啊好的。"
+"traveler:EZIC_DIPLO_FOLLOW","I look much the same as him.","这下子我看起来就更像他了。"
+"traveler:EZIC_DIPLO_FOLLOW","Just need to shave my mustache.","只需我再剃掉胡子。"
+"traveler:EZIC_DIPLO_FOLLOW","But we all must make sacrifices.","但我们都得做点牺牲嘛。"
+"traveler:EZIC_DIPLO_FOLLOW","Appove the visa.","审下我的签证吧。"
+"traveler:EZIC_DIPLO_FOLLOW","For Arstotzka and the Order.","为了阿斯托兹卡，为了结社。"
+"traveler:EZIC_DIPLO_FOLLOW","This is not what was agreed on.","这可并非我们说好的。"
+"traveler:EZIC_DIPLO_FOLLOW","I am sent to collect diplomat's passport.","我被派来拿走大使的护照。"
+"traveler:EZIC_DIPLO_FOLLOW","@I do not have it.","@我这没有。"
 "traveler:SECRET_POLICE_INTRO","Good morning, inspector.","Good morning, inspector."
 "traveler:SECRET_POLICE_INTRO","You are healthy today yes?","You are healthy today yes?"
 "traveler:SECRET_POLICE_INTRO","I have just few questions for you.","I have just few questions for you."
