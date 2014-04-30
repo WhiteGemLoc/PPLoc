@@ -394,9 +394,9 @@
 "news:BUSTED_SPY","Top-level Kolechian Exposed as Arstotzkan Spy!","克勒地亚外交官被曝为阿斯托兹卡间谍！"
 "news:BUSTED_SPY","Missing From Post, Presumed Dead","任上失踪,预计已身亡"
 "news:BUSTED_SPY_GAVEREALDOCS","Kolechia Cleans House - Eliminates Arstotzkan Spies","克勒地亚清理门户 <br> 除掉了阿斯托兹卡的间谍"
-"news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","Heroic Agents Compromised"
+"news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","英勇特工已屈服"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Kolechia Cleans House - Attacks Its Own!","克勒地亚清理门户 - 自相残杀!"
-"news:BUSTED_SPY_GAVEFAKEDOCS","Round Of Disappearances Blamed On Faulty Evidence","Round Of Disappearances Blamed On Faulty Evidence"
+"news:BUSTED_SPY_GAVEFAKEDOCS","Round Of Disappearances Blamed On Faulty Evidence","归咎于错误证据的失踪风波"
 "news:FORGERY_NEWS","Theft At Ministry Of Admission!","边审部遭窃"
 "news:FORGERY_NEWS","Limited Effects - Few Items Stolen","影响有限 - 少量物品被盗"
 "news:SECRET_SOCIETY","The History of Arstotzka","阿斯托兹卡的历史"
@@ -407,8 +407,8 @@
 "news:LOSING_GUARDS","Qualified Guards, Soldiers In Demand","需求合格的守卫和士兵"
 "news:LOSING_GUARDS","Consolidation, Reassignment At Border","边境线上的合并重整"
 "news:LOSING_GUARDS","Still Safe With Smaller Detail?","琐屑细节依旧安全？"
-"news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","Grestin Incident Highlights Security Risks"
-"news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","Further Breaches Predicted"
+"news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","格莱斯町事件凸显安保风险"
+"news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","被预示的进一步破坏"
 "news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","Daring Bike Attack At Grestin Checkpoint!"
 "news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","Extremists Growing Bolder - Grestin Like Magnet"
 "news:BORDER_TARGETED","Can The Wall Hold?","Can The Wall Hold?"
@@ -772,7 +772,7 @@ Deny all foreigners.","欢迎就任你的新岗位，格莱斯町边境检察员
 
 在护照上的入境签证处盖章，然后将文件归还给入境者。
 
-限制仅允许阿斯托兹卡公民进入。
+仅限阿斯托兹卡公民入关。
 
 拒绝所有的外国人。"
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
@@ -781,11 +781,11 @@ Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","即日起，持有有效护照的外国人将被允许进入。
+Continued...[PAGESNOTE]","即日起，持有效护照的外国人将被允许入关。
 
-你的检查站的审查设备已安装。
+你的检查站已安装审查设备。
 
-仔细检查所有护照信息中存在的矛盾。拒绝所有信息不符的入境者。
+仔细审查所有存在于护照信息中的矛盾。拒绝所有信息不符的入境者。
 
 下一页……[PAGESNOTE]"
 "bulletin:2B","__________________________
@@ -804,7 +804,7 @@ This post is bound by Ministry of Admission rules and regulations. Study the rul
 __________________________
 规定 &amp; 条款
 
-This post is bound by Ministry of Admission rules and regulations. Study the rule book closely."
+本文受边审部规定及条款约束。请深入研究规则手册。"
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
