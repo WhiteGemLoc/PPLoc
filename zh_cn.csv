@@ -258,7 +258,7 @@
 "RulesInnerConfiscation","MOI","信息部"
 "RulesInnerLast","PROPERTY OF","所有权归属于"
 "RulesInnerLast","M.O.A.","边审部"
-"RulesInnerLast","GLORY TO ARSTOTZKA","阿斯托兹卡万岁"
+"RulesInnerLast","GLORY TO ARSTOTZKA","荣耀归于阿斯托兹卡"
 "RulesInnerLast","Arstotzkan","阿斯托兹卡"
 "RulesInnerLast","Ministry of Admission","边审部"
 "RulesInnerLast","Rules &amp; Regulations","规定 &amp; 制度"
@@ -1486,25 +1486,25 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:ignore-ezic","Grestin Border Checkpoint will reopen soon.","Grestin Border Checkpoint will reopen soon."
 "end:ignore-ezic","Return to your post on January 1st.","Return to your post on January 1st."
 "end:ignore-ezic","ENDLESS UNLOCK CODE: 62131","无尽模式解锁码: 62131"
-"endless:timed","Timed","Timed"
-"endless:timed","Process as many travelers as possible in 10 minutes.","Process as many travelers as possible in 10 minutes."
+"endless:timed","Timed","限时"
+"endless:timed","Process as many travelers as possible in 10 minutes.","10分钟内审查尽可能多的旅行者。"
 "endless:timed","ENDLESS - TIMED
 
-Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","ENDLESS - TIMED
+Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation.","无尽模式 - 限时
 
 Process as many travelers as possible in 10 minutes. One point per traveler. Lose 30 seconds for each citation."
-"endless:perfection","Perfection","Perfection"
+"endless:perfection","Perfection","完美"
 "endless:perfection","Game over at first penalty. Earn dwindling points.","Game over at first penalty. Earn dwindling points."
 "endless:perfection","ENDLESS - PERFECTION
 
-Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","ENDLESS - PERFECTION
+Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly.","无尽模式 - 完美
 
 Earn points for processing travelers. No citations allowed. Ten points per traveler in the first minute, one less point for each minute that passes. Work quickly."
-"endless:endurance","Endurance","Endurance"
-"endless:endurance","Play until balance goes negative. Avoid penalties.","Play until balance goes negative. Avoid penalties."
+"endless:endurance","Endurance","耐性"
+"endless:endurance","Play until balance goes negative. Avoid penalties.","玩到平衡趋于负面为止。避免惩罚。"
 "endless:endurance","ENDLESS - ENDURANCE
 
-Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","ENDLESS - ENDURANCE
+Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring.","无尽模式 - 耐性
 
 Process travelers until your balance drops below zero. Citations penalize an escalating number of points. The highest achieved points are remembered for scoring."
 "endless:course1","Course 1","课程 1"
@@ -1929,15 +1929,15 @@ HOLD YOUR FIRE
 "traveler:JORJI_SMUGGLE1","Buy something happy for wife.","给妻子买点好东西。"
 "traveler:JORJI_SMUGGLE1","Phew!","呼！"
 "traveler:JORJI_SMUGGLE1","Was tough one. Lucky for me, guard was easy.","真不容易。幸好，守卫容易对付。"
-"traveler:JORJI_SMUGGLE1","He asks for big money but is reasonable man.","He asks for big money but is reasonable man."
-"traveler:JORJI_SMUGGLE1","Oh man, again!","Oh man, again!"
-"traveler:JORJI_SMUGGLE1","That guard have another good day.","That guard have another good day."
-"traveler:JORJI_SMUGGLE1","Not sure I keep this up with no sales!","Not sure I keep this up with no sales!"
-"traveler:JORJI_SMUGGLE1","Ok, we try again!","Ok, we try again!"
-"traveler:JORJI_SMUGGLE1","Sorry to bother you, but this my only job.","Sorry to bother you, but this my only job."
-"traveler:JORJI_SMUGGLE1","@Wait here, Jorji.","@Wait here, Jorji."
-"traveler:JORJI_SMUGGLE1","Is ok, I understand.","Is ok, I understand."
-"traveler:JORJI_SMUGGLE1","Drugs are bad. Not good for kids.","Drugs are bad. Not good for kids."
+"traveler:JORJI_SMUGGLE1","He asks for big money but is reasonable man.","他索取了一大笔钱但人还算公道。"
+"traveler:JORJI_SMUGGLE1","Oh man, again!","哦又一个人!"
+"traveler:JORJI_SMUGGLE1","That guard have another good day.","那位守卫又能享受美好的一天了。"
+"traveler:JORJI_SMUGGLE1","Not sure I keep this up with no sales!","不确定我能让这个一直保持不打折扣！"
+"traveler:JORJI_SMUGGLE1","Ok, we try again!","好的，我们再试试！"
+"traveler:JORJI_SMUGGLE1","Sorry to bother you, but this my only job.","抱歉要叨扰你了，但这是我唯一的工作。"
+"traveler:JORJI_SMUGGLE1","@Wait here, Jorji.","@稍等，Jorji."
+"traveler:JORJI_SMUGGLE1","Is ok, I understand.","好哒，我能理解。"
+"traveler:JORJI_SMUGGLE1","Drugs are bad. Not good for kids.","毒品是坏东西，对孩子们不好。"
 "traveler:JORJI_SMUGGLE1","You do great work here still.","You do great work here still."
 "traveler:JORJI_SMUGGLE1","@I see a difference here.","@I see a difference here."
 "traveler:JORJI_SMUGGLE1","Is real mystery for sure.","Is real mystery for sure."
@@ -1951,7 +1951,7 @@ HOLD YOUR FIRE
 "traveler:JORJI_SMUGGLE1","This much better, see?","This much better, see?"
 "traveler:JORJI_SMUGGLE1","Wow, you really stand-up guy.","Wow, you really stand-up guy."
 "traveler:JORJI_SMUGGLE1","Maybe is not so good for me when I think about.","Maybe is not so good for me when I think about."
-"traveler:JORJI_CRIMINAL","Is good to see you again!","Is good to see you again!"
+"traveler:JORJI_CRIMINAL","Is good to see you again!","再次看到你真好！"
 "traveler:JORJI_CRIMINAL","Today I come just for short visit.","Today I come just for short visit."
 "traveler:JORJI_CRIMINAL","Everything is definitely ok with me.","Everything is definitely ok with me."
 "traveler:JORJI_CRIMINAL","For sure I am not in criminal bulletin or anything!","For sure I am not in criminal bulletin or anything!"
@@ -1970,8 +1970,8 @@ HOLD YOUR FIRE
 "traveler:JORJI_CRIMINAL","I have little talk with them again.","I have little talk with them again."
 "traveler:JORJI_CRIMINAL","Anyway, you have tough job.","Anyway, you have tough job."
 "traveler:JORJI_CRIMINAL","I rather sell drugs!","I rather sell drugs!"
-"traveler:JORJI_PASSPORTS","I read newspaper.","I read newspaper."
-"traveler:JORJI_PASSPORTS","@Hello Jorji.","@Hello Jorji."
+"traveler:JORJI_PASSPORTS","I read newspaper.","我读了报纸。"
+"traveler:JORJI_PASSPORTS","@Hello Jorji.","@你好，Jorji."
 "traveler:JORJI_PASSPORTS","Things getting little crazy in Arstotzka.","Things getting little crazy in Arstotzka."
 "traveler:JORJI_PASSPORTS","Maybe you think about going away for a bit.","Maybe you think about going away for a bit."
 "traveler:JORJI_PASSPORTS","Obristan is good place.","Obristan is good place."
@@ -2015,11 +2015,11 @@ HOLD YOUR FIRE
 "traveler:BROTHEL0","You look bored.","你看起来正无聊。"
 "traveler:BROTHEL0","If you want good time, come see us.","如果你想好好享受下的话，来见我们吧。"
 "traveler:BROTHEL0","I will be around couple months.","我近几个月都会在这附近。"
-"traveler:BROTHEL0","Don't forget to visit.","别忘了来看看哦。"
+"traveler:BROTHEL0","Don't forget to visit.","别忘了来看看哦。~❤"
 "traveler:BROTHEL1","Hey there.","嘿，你好呀。"
 "traveler:BROTHEL1","I can make you happy any time.","无论什么时候我都能让你爽一下。"
-"traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","来Pink Vice找Ava。"
-"traveler:BROTHEL2","Oh. Here.","嘿，你！"
+"traveler:BROTHEL1","Come to Pink Vice. Ask for Ava.","来 Pink Vice 找 Ava。"
+"traveler:BROTHEL2","Oh. Here.","嘿，这儿！"
 "traveler:BROTHEL2","Please help me.","请帮帮我。"
 "traveler:BROTHEL3","Hello friend.","你好啊，朋友。"
 "traveler:BROTHEL3","You come down, I give you good girl.","你下来，我会介绍给你一个好妞。"
