@@ -92,7 +92,7 @@
 "ForgeryFlyerInnerBack","PRICING (EACH)","价格（每位）"
 "ForgeryFlyerInnerBack","Passport *","护照 *"
 "ForgeryFlyerInnerBack","Entry Ticket","入境券"
-"ForgeryFlyerInnerBack","*<br>","*<br>"
+"ForgeryFlyerInnerBack","*<br>","※<br>"
 "ForgeryFlyerInnerBack","Client must provide existing Obristan passport to be modified with new info","客户必须提供已有的奥伯利斯坦<br>护照来修改新的信息"
 "ForgeryFlyerInnerBack","Service at border Arstotzka/Obristan","服务于阿斯托兹卡与<br>奥伯利斯坦之间的边境"
 "ForgeryFlyerInnerBack","Ask for Timofei Wee","咨询 Timofei Wee"
@@ -200,7 +200,7 @@
 "RulesInnerHome","Arstotzkan","阿斯托兹卡"
 "RulesInnerHome","Ministry<span>of</span>Admission","边审部"
 "RulesInnerHome","RULES","规定"
-"RulesInnerHome","&amp;","&amp;"
+"RulesInnerHome","&amp;","＆"
 "RulesInnerHome","REGULATIONS","制度"
 "RulesInnerHome","for Inspectors","供检查员使用"
 "RulesInnerHome","CONTENTS","内容"
@@ -276,7 +276,7 @@
 "RulesUpgrade0","TOGGLE INSPECT","切换审查模式"
 "RulesUpgrade0","SPACE","空格"
 "RulesUpgrade1","TOGGLE STAMP BAR","切换图章栏"
-"RulesUpgrade1","TAB","TAB"
+"RulesUpgrade1","TAB","TAB键"
 "RulesUpgrade2","RULEBOOK SHORTCUTS","规定手册快捷方式"
 "RulesUpgrade3","QUICK INSPECT","快速审查"
 "RulesUpgrade3","DOUBLE-CLICK","双击"
@@ -328,7 +328,7 @@
 "Upgrades","SPACE","空格"
 "Upgrades","TAB","TAB"
 "image:ArskickersInner.png","capture/ArskickersInner.png","capture/ArskickersInner.png"
-"ArskickersInner","HANG ON WALL","HANG ON WALL"
+"ArskickersInner","HANG ON WALL","壁挂"
 "image:BrothelFlyerInner.png","capture/BrothelFlyerInner.png","capture/BrothelFlyerInner.png"
 "BrothelFlyerInner","East Grestin","东格莱斯町"
 "BrothelFlyerInner","FOR ALL YOUR FANTASIES","粉红诱惑任君遐想"
@@ -486,7 +486,7 @@
 "text:border_announce1","HAVE YOUR DOCUMENTS READY","准备好你的文件"
 "text:border_announce2","ARSTOTZKA WELCOMES YOU","阿斯托兹卡欢迎您"
 "text:border_guardout","OUT!","出去！"
-"text:border_elisa","ELISA!","ELISA!"
+"text:border_elisa","ELISA!","伊利莎！"
 "text:family_son_budget","SON","儿子"
 "text:family_wife_budget","WIFE","妻子"
 "text:family_niece_budget","NIECE","侄女"
@@ -524,7 +524,7 @@
 "text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","你的$0，$1和$2准备回到尼尔斯科"
 "text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","你的$0，$1，$2和$3准备回到尼尔斯科"
 "text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","你的$0，$1，$2，$3和$4准备回到尼尔斯科"
-"text:family_flee_final_0","Obristan Above All","Obristan Above All"
+"text:family_flee_final_0","Obristan Above All","奥伯利斯坦高于一切"
 "text:family_flee_final_1","The safety of your $0 is unknown.","你的$0的安全未知。"
 "text:family_flee_final_2","The safety of your $0 and $1 is unknown.","你的$0和$1的安全未知。"
 "text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","你的$0，$1和$2的安全未知。"
@@ -809,11 +809,11 @@ __________________________
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Entry for non-citizens is now regulated. 
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","非市民许可现在受到管制。
 
-All foreigners require a valid ENTRY TICKET.
+所有的外国人需要一张有效的入境券
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]"
+在护照上盖章及归还入境者的所有文件之前，务必核实信息真伪。[PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
@@ -894,9 +894,9 @@ The Ministry of Admission has offered its services as liaison. Expect a possible
 The Ministry of Admission has offered its services as liaison. Expect a possible drop later today."
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
-Maintain your best behavior.","The divisional authority of East Grestin operations will visit today.
+Maintain your best behavior.","东格莱斯町分区行政官员将于今日参观。
 
-Maintain your best behavior."
+表现出你最好的一面。"
 "bulletin:11A","A break-in at M.O.A. offices may have compromised our document sealing plates.
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
@@ -1022,9 +1022,9 @@ Those seeking asylum must carry a valid GRANT OF ASYLUM.
 Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT."
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
-Follow all protocols strictly.","Your position is important and your responsibilities are broad.
+Follow all protocols strictly.","你的岗位责任重大。
 
-Follow all protocols strictly."
+严格遵守所有协议。"
 "bulletin:24A","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
 
 The Ministry of Information has requested our cooperation.
@@ -1522,9 +1522,9 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:ATTACK_FIREDGUN","The day was cut short by a terrorist attack.","恐怖袭击会缩短一天的时间。"
 "night:ATTACK_FIREDGUN","TRIGGER BONUS","TRIGGER BONUS"
 "night:ATTACK_SOLVED","The day was cut short by a terrorist attack.","The day was cut short by a terrorist attack."
-"night:ATTACK_SOLVED","SHARPSHOOTER BONUS","SHARPSHOOTER BONUS"
+"night:ATTACK_SOLVED","SHARPSHOOTER BONUS","神射手津贴"
 "night:POISONING","The day was cut short by a security incident.","The day was cut short by a security incident."
-"night:FAMILY_PICTURE","Your wife found an old family picture.","Your wife found an old family picture."
+"night:FAMILY_PICTURE","Your wife found an old family picture.","你的妻子找到了一张老旧的全家福照片。"
 "night:BUY_UPGRADE0","Booth Upgrade Available: SPACE key to toggle INSPECT mode.","可获得的检查站升级：空格键来切换审查模式"
 "night:BUY_UPGRADE0","UPGRADE BOOTH","升级检查站"
 "night:BUY_UPGRADE1","Booth Upgrade Available: TAB key to toggle stamp bar.","可获得的检查站升级：TAB键来切换图章栏。"
@@ -1554,7 +1554,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:NIECE2_NO","Your niece has disappeared.","你的侄女失踪了。"
 "night:FRIENDLY_GUARD_PAYOUT","A young woman dropped off something.","年轻的女人落下了什么东西。"
 "night:FRIENDLY_GUARD_PAYOUT","ELISA'S GIFT","ELISA的馈赠"
-"night:DETAIN_PAYOUT","DETAIN BONUS","DETAIN BONUS"
+"night:DETAIN_PAYOUT","DETAIN BONUS","拘留津贴"
 "night:EZIC_PAYOUT","A strange man brought money. Uncheck to burn it.","A strange man brought money. Uncheck to burn it."
 "night:EZIC_PAYOUT","EZIC GIFT","艾吉克的馈赠"
 "night:EZIC_PAYOUT_RETRY","A strange man brought money again. Uncheck to burn it.","A strange man brought money again. Uncheck to burn it."
@@ -2791,33 +2791,33 @@ HOLD YOUR FIRE
 "speech:wrong-purpose","$mistake-prefix I have come to work.","$mistake-prefix I have come to work."
 "speech:wrong-purpose","$mistake-prefix I move here permanently.","$mistake-prefix I move here permanently."
 "speech:ask-duration","Duration of stay?","停留时长？"
-"speech:random-stay","I stay","I stay"
-"speech:random-stay","I remain for","I remain for"
-"speech:random-stay","It will be","It will be"
-"speech:state-duration","$random-stay forever.","$random-stay forever."
-"speech:state-duration","$random-stay until I die.","$random-stay until I die."
-"speech:state-duration","I don't plan to leave.","I don't plan to leave."
-"speech:state-duration","$random-stay just 2 days.","$random-stay just 2 days."
-"speech:state-duration","$random-stay couple days.","$random-stay couple days."
-"speech:state-duration","$random-stay just 14 days.","$random-stay just 14 days."
-"speech:state-duration","$random-stay couple weeks.","$random-stay couple weeks."
-"speech:state-duration","$random-stay only two weeks.","$random-stay only two weeks."
-"speech:state-duration","$random-stay 30 days.","$random-stay 30 days."
-"speech:state-duration","$random-stay a few weeks.","$random-stay a few weeks."
-"speech:state-duration","$random-stay one month.","$random-stay one month."
-"speech:state-duration","$random-stay 60 days.","$random-stay 60 days."
-"speech:state-duration","$random-stay 8 weeks.","$random-stay 8 weeks."
-"speech:state-duration","$random-stay couple months.","$random-stay couple months."
-"speech:state-duration","$random-stay two months.","$random-stay two months."
-"speech:state-duration","$random-stay 90 days.","$random-stay 90 days."
-"speech:state-duration","$random-stay 12 weeks.","$random-stay 12 weeks."
-"speech:state-duration","$random-stay three months.","$random-stay three months."
-"speech:state-duration","$random-stay a few months.","$random-stay a few months."
-"speech:state-duration","$random-stay six months.","$random-stay six months."
-"speech:state-duration","$random-stay half a year.","$random-stay half a year."
-"speech:state-duration","$random-stay one year.","$random-stay one year."
-"speech:state-duration","$random-stay full year.","$random-stay full year."
-"speech:state-duration","$random-stay a year.","$random-stay a year."
+"speech:random-stay","I stay","我要待"
+"speech:random-stay","I remain for","我停留"
+"speech:random-stay","It will be","时长是"
+"speech:state-duration","$random-stay forever.","$random-stay永远。"
+"speech:state-duration","$random-stay until I die.","$random-stay直到我去世。"
+"speech:state-duration","I don't plan to leave.","我没打算离开。"
+"speech:state-duration","$random-stay just 2 days.","$random-stay就两天"
+"speech:state-duration","$random-stay couple days.","$random-stay几天."
+"speech:state-duration","$random-stay just 14 days.","$random-stay就14天。"
+"speech:state-duration","$random-stay couple weeks.","$random-stay几周。"
+"speech:state-duration","$random-stay only two weeks.","$random-stay就两周。"
+"speech:state-duration","$random-stay 30 days.","$random-stay就30天。"
+"speech:state-duration","$random-stay a few weeks.","$random-stay数周。"
+"speech:state-duration","$random-stay one month.","$random-stay一个月。"
+"speech:state-duration","$random-stay 60 days.","$random-stay60天。"
+"speech:state-duration","$random-stay 8 weeks.","$random-stay8周。"
+"speech:state-duration","$random-stay couple months.","$random-stay几个月。"
+"speech:state-duration","$random-stay two months.","$random-stay两个月。"
+"speech:state-duration","$random-stay 90 days.","$random-stay90天。"
+"speech:state-duration","$random-stay 12 weeks.","$random-stay12周。"
+"speech:state-duration","$random-stay three months.","$random-stay三个月。"
+"speech:state-duration","$random-stay a few months.","$random-stay数月。"
+"speech:state-duration","$random-stay six months.","$random-stay6个月。"
+"speech:state-duration","$random-stay half a year.","$random-stay半年。"
+"speech:state-duration","$random-stay one year.","$random-stay一年。"
+"speech:state-duration","$random-stay full year.","$random-stay满一年。"
+"speech:state-duration","$random-stay a year.","$random-stay一年。"
 "speech:ask-wrong-duration","The length of your stay is different.","The length of your stay is different."
 "speech:wrong-duration","$mistake-prefix $state-duration","$mistake-prefix $state-duration"
 "speech:ask-forgery-missing","This document is missing its seal.","This document is missing its seal."
@@ -2923,8 +2923,8 @@ HOLD YOUR FIRE
 "speech:ask-wrong-nation","No entry from Republia.","No entry from Republia."
 "speech:ask-wrong-nation","No entry from Arstotzka.","No entry from Arstotzka."
 "speech:ask-wrong-nation","No entry from Impor.","No entry from Impor."
-"speech:ask-search","Face the scanner.","Face the scanner."
-"speech:ask-search","Turn towards the scanner.","Turn towards the scanner."
+"speech:ask-search","Face the scanner.","面向扫描器。"
+"speech:ask-search","Turn towards the scanner.","转向扫描器。"
 "speech:ask-detain","Wait here.","Wait here."
 "speech:ask-detain","One moment please.","One moment please."
 "speech:detain","What are you doing?","你在干什么？"
